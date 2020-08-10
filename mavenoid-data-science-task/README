@@ -1,0 +1,24 @@
+
+*** Base-line solution for “Data-science exercise: Generate an FAQ bot”
+
+To install:
+
+1. Download into this folder scraped forum pages from https://drive.google.com/file/d/1xo_cBIUg6Ha3JremD2_eAe9P1tL8pZ43
+
+You should get zip archive: data-science-faq-bot-task-sources.zip
+
+2. Run ./install.sh that will:
+- unzip data-science-faq-bot-task-sources.zip 
+- rename files in  data-science-faq-bot-task-sources directory to more readable names.
+
+3. Install  Python 3.6 or newer with Jupyter Notebook : https://jupyter.org/install 
+
+4. Install in your Python environment:
+numpy, pandas, BeautifulSoup, nltk, scipy.spatial and 
+sentence-transformers from  https://github.com/UKPLab/sentence-transformers
+
+5. In Jupyter Notebook run first exctrat-data.ipynb and then answers.ipynb
+
+** More info in solution-notes.pdf **
+
+
