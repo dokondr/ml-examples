@@ -1,1 +1,1 @@
-# ml-examples
+# Examples of ML projects
