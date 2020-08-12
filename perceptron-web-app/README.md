@@ -56,4 +56,3 @@ docker rm -vf $(docker ps -a -q)
 
 To delete all the images,
 docker rmi -f $(docker images -a -q)
-
