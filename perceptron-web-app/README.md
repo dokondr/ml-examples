@@ -2,6 +2,7 @@
 Simple example of NN (Perceptron) to run in Flask WEB server as Docker image.
 Given the following X predict y:
 
+<pre>
   X   | y
 ---------
 0 0 1 | 0
@@ -10,8 +11,9 @@ Given the following X predict y:
 0 1 1 | 0
 ----------
 1 0 0 | ?
+</pre>
 
-!!! TRAIN MODEL FIRST BEFORE PREDICTING !!!
+TRAIN MODEL FIRST BEFORE PREDICTING
 
 * To run from this directory:
 
